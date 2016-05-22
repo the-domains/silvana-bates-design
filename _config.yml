@@ -1,4 +1,3 @@
-layout_spectrum: 0.37881187396124005
 typography_spectrum: 0.9442023593001068
 color:
   brandStrength: 0.005113918101415038
@@ -6,9 +5,16 @@ color:
   saturation: 0.77087806398049
   rhythmicContrast: 0.9751880597323179
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
+    - '#E6E2AF'
+    - '#A7A37E'
+    - '#EFECCA'
+    - '#046380'
+    - '#002F2F'
+layout_spectrum: 0.37881187396124005
+author:
+  name: Silvana Bates
+  email: silvabates@gmail.com
+  url: 'https://www.facebook.com/Silvabeads/'
+logo: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/c64735ce-707b-41e8-a721-bc8081e15fd5.jpg'
 name: silvana bates design
+title: One off jewellery pieces made from polymer clay
