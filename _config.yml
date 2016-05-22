@@ -1,4 +1,4 @@
-typography_spectrum: 0.9442023593001068
+typography_spectrum: 0.16158723831176758
 color:
   brandStrength: 0.005113918101415038
   lightness: 0.42362790717743337
@@ -10,7 +10,7 @@ color:
     - '#EFECCA'
     - '#046380'
     - '#002F2F'
-layout_spectrum: 0.37881187396124005
+layout_spectrum: 0.8143161749467254
 author:
   name: Silvana Bates
   email: silvabates@gmail.com
