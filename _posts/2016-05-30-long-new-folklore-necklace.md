@@ -1,18 +1,17 @@
 ---
-title: "Long 'New Folklore' Necklace"
-datePublished: '2016-05-30T10:06:05.561Z'
-dateModified: '2016-05-30T10:03:15.752Z'
+datePublished: '2016-05-30T10:23:14.789Z'
 author: []
-description: Long or double necklace “ new folklore “
+dateModified: '2016-05-30T10:07:18.566Z'
+title: "Long 'New Folklore' Necklace"
+description: 'Can be worn twice or three times round. '
 starred: false
 sourcePath: _posts/2016-05-30-long-new-folklore-necklace.md
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-_type: MediaObject
+url: long-new-folklore-necklace/index.html
+_context: 'http://schema.org'
+_type: Article
 
 ---
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/b4135b3689b9ad064a7cfa5f9f4fc5b1f4334edf.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2fcf5bce-dabc-4e84-8a0f-9c13f25f99c1.jpg)
-
-Long or double necklace " new folklore "
+![Can be worn twice or three times round. ](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6da9de59-a311-4911-99d8-d7eb0327a725.jpg)
