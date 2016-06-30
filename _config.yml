@@ -19,15 +19,15 @@ collections:
     permalink:
       path: '/:title/'
 color:
-  brandStrength: 0.005113918101415038
-  saturation: 0.77087806398049
+  brandStrength: 0.4932546
+  lightness: 0.2892074
+  saturation: 0.8575042
+  rhythmicContrast: 1
   brandColors:
-    - '#E6E2AF'
-    - '#A7A37E'
-    - '#EFECCA'
-    - '#046380'
-    - '#002F2F'
-  lightness: 0.4236279071774334
-  rhythmicContrast: 0.9751880597323179
+    - '#FFFFFF'
+    - '#312E35'
+    - '#09090B'
+    - '#7B777D'
+    - '#535059'
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/c64735ce-707b-41e8-a721-bc8081e15fd5.jpg
