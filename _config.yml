@@ -1,6 +1,5 @@
 layout_spectrum: 0.479975
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/c64735ce-707b-41e8-a721-bc8081e15fd5.jpg
+typography_spectrum: 0.5387985
 name: silvana bates design
 author:
   url: 'https://www.facebook.com/Silvabeads/'
@@ -19,15 +18,16 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-typography_spectrum: 0.5387985
 color:
   brandStrength: 0.4932546
-  lightness: 0.5
-  saturation: 0.06070087
-  rhythmicContrast: 0.5012516
+  lightness: 0.3285357
+  saturation: 0.2221527
+  rhythmicContrast: 0.1182728
   brandColors:
     - '#FFFFFF'
     - '#312E35'
     - '#09090B'
     - '#7B777D'
     - '#535059'
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/c64735ce-707b-41e8-a721-bc8081e15fd5.jpg
