@@ -1,23 +1,11 @@
 layout_spectrum: 0.479975
+typography_spectrum: 0.5387985
 name: silvana bates design
 author:
   url: 'https://www.facebook.com/Silvabeads/'
   name: Silvana Bates
   email: silvabates@gmail.com
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/c64735ce-707b-41e8-a721-bc8081e15fd5.jpg
-typography_spectrum: 0.5387985
-color:
-  brandStrength: 0.4932546
-  saturation: 0.8473862
-  brandColors:
-    - '#FFFFFF'
-    - '#312E35'
-    - '#09090B'
-    - '#7B777D'
-    - '#535059'
-  lightness: 0.2048904
-  rhythmicContrast: 0.9266442
+title: One off jewellery pieces made from polymer clay
 collections:
   - index:
       navigable: true
@@ -30,4 +18,16 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-title: One off jewellery pieces made from polymer clay
+color:
+  brandStrength: 0.4932546
+  lightness: 0.5150188
+  saturation: 0.5237797
+  rhythmicContrast: 0.5012516
+  brandColors:
+    - '#FFFFFF'
+    - '#312E35'
+    - '#09090B'
+    - '#7B777D'
+    - '#535059'
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/c64735ce-707b-41e8-a721-bc8081e15fd5.jpg
