@@ -4,8 +4,15 @@
         <description><![CDATA[One off jewellery pieces made from polymer clay]]></description>
         <link>https://thegrid.ai/silvana-bates-design/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 17 Jul 2016 10:23:24 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Jul 2016 10:30:41 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/silvana-bates-design/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Ardmore Beach pebbles Necklace]]></title>
+            <description><![CDATA[<article><h1>Ardmore Beach pebbles Necklace</h1><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/79a9cd1d9bdbd5dd188744f11dfc20e2/croprotate.jpg?cropheight=1883&cropwidth=1717&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fcd6c53c8-27ef-4b14-8a83-06e282cc06b3.jpg&x=0&y=0"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/cd6c53c8-27ef-4b14-8a83-06e282cc06b3.jpg</link>
+            <guid isPermaLink="false">d815956b-70a2-4d3f-92d0-40f1a7c4a4bd</guid>
+            <pubDate>Sun, 17 Jul 2016 10:30:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Ardmore Beach Necklace]]></title>
             <description><![CDATA[<article><h1>Ardmore Beach Necklace</h1><p>Necklace inspired by beach, water and sunshine.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/265c4758-4880-4fd1-996e-81e327b3dd74.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://polymerclaydaily.com/2014/03/10/polymer-buds/</link>
             <guid isPermaLink="false">2b2ce3cf-a183-4f0a-b2fc-3dbfd02e6703</guid>
             <pubDate>Sun, 22 May 2016 11:34:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Polymer warren]]></title>
-            <description><![CDATA[<article><h1>Polymer warren</h1><p>Silvana Bates has been mixing her patterns too. She's using up her bits of polymer to make ornaments. One cookie cutter gives her a warren of gleeful leaping bunnies that show off their spring finery. But that's not all!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4c73c5195908763c3ec0e5531b288be069cea6c4.jpg"></article>]]></description>
-            <link>http://polymerclaydaily.com/2014/04/09/polymer-warren/</link>
-            <guid isPermaLink="false">3948d1d7-5a7b-444a-b44e-61bc9ef5b709</guid>
-            <pubDate>Sun, 22 May 2016 11:34:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
